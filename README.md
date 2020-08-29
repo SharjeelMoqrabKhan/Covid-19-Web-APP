@@ -11,4 +11,3 @@ Tracking Features
 
 # Layout 
 
-![screencapture-127-0-0-1-5500-index-html-2020-08-30-01_13_49](https://user-images.githubusercontent.com/38564835/91645573-91f88f00-ea5f-11ea-8d7c-4a7674c49832.png)
